@@ -13,7 +13,7 @@ Features
 Installation
 Prerequisites
 
-    Minecraft (version X.X.X or higher)
+    Minecraft (version 1.20.2 or higher)
     Java (version 8 or higher)
     Cubelines Modloader for Minecraft
 
